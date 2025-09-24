@@ -1,9 +1,6 @@
 EMOTION DETECTION SYSTEM
 
 A real-time AI web application that detects human emotions from text or video (facial expressions) using Machine Learning and Deep Learning.
-🌟 Overview
-
-The Emotion Detection System identifies emotions from:
 
 Facial Expressions (Real-Time Video) – Captures live webcam feed to detect emotions such as Happy, Sad, Angry, Surprise, Neutral, Fear, Disgust.
 
